@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: wisedoghead
+  m_Controller: {fileID: 9100000, guid: fb436dab67eab4a428edd77dc71b5045, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: ef41b886dba4ee043a905d23127e93fc, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 2dcba68bfbd851c4fb7f5e673a5b78e3, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: d24234b4a8aea5040bca1a52321c555b, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 88c15ce7d523bb74392ab6b28cfc3604, type: 2}
